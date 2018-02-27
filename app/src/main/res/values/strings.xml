@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuessNumberGame</string>
+    
+    <string name="come_to_guess">快来测测吧</string>
+    <string name="start_game">开始游戏</string>
+    <string name="game_rule">游戏规则</string>
+    <string name="close">关闭</string>
+
+    <string name="is_in">在其中</string>
+    <string name="is_not_in">不在其中</string>
+    <string name="your_num_is">你预想的数字是：%1$d</string>
+</resources>
